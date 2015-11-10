@@ -83,7 +83,7 @@
   if (typeof exports === 'object') {
     module.exports = moduleDefinition(require('isfunc'));
   } else if (typeof define === 'function' && define.amd) {
-    define(['./node_modules/isfunc/index.js'], moduleDefinition);
+    define(['../isfunc/index.js'], moduleDefinition);
   } else {
     if (typeof Function.isFunction !== 'function') {
       return console.log('deferred.js requires the fixjs/isFunction module');
