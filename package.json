@@ -1,0 +1,32 @@
+{
+  "name": "deferred.js",
+  "version": "1.0.0",
+  "description": "A lightweight deferred implementation",
+  "main": "deferred.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fixjs/deferred.js.git"
+  },
+  "keywords": [
+    "defer",
+    "deferred",
+    "promise",
+    "async",
+    "asynchronous"
+  ],
+  "author": "Mehran Hatami <mehranhatamie@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fixjs/deferred.js/issues"
+  },
+  "homepage": "https://github.com/fixjs/deferred.js#readme",
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  },
+  "dependencies": {
+    "isfunc": "^1.0.0"
+  }
+}

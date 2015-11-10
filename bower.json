@@ -1,0 +1,30 @@
+{
+  "name": "deferred.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/fixjs/deferred.js",
+  "authors": [
+    "Mehran Hatami <mehranhatamie@gmail.com>"
+  ],
+  "description": "A lightweight deferred implementation",
+  "main": "deferred.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "defer",
+    "deferred",
+    "promise",
+    "async",
+    "asynchronous"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
