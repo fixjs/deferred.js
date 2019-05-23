@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/fixjs/deferred.js#readme",
   "devDependencies": {
-    "mocha": "^2.3.3"
+    "mocha": "^6.1.4"
   },
   "dependencies": {
     "isfunc": "^1.0.0"
